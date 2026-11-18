@@ -1,0 +1,6 @@
+{
+  "name": "SMP Negeri 2 Pulung",
+  "description": "Portal Web Resmi SMP Negeri 2 Pulung, Kabupaten Ponorogo — Profil Sekolah, Akademik, Berita, dan PPDB Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
